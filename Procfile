@@ -1,0 +1,1 @@
+web: python telegaBot.py
